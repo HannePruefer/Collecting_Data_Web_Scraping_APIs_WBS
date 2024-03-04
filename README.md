@@ -1,5 +1,5 @@
-# Collecting_Data_Web_Scraping_APIs_WBS
- Build a data pipeline with Python and SQL
+# Collecting_Data with WebScraping and APIs
+ Build a data pipeline with Python and SQL in Google Cloud
 
 ## Overview 
 
