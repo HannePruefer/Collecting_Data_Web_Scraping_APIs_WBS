@@ -1,8 +1,6 @@
 # Collecting_Data_Web_Scraping_APIs_WBS
  Build a data pipeline with Python and SQL
 
-A project within the Data Science Bootcamp at WBS Coding School
-
 ## Overview 
 
 The project aims at collecting Data via Web Scraping and by requests over an API. The collected data is then processed over the Goolge Cloud to an SQL Database. 
@@ -19,7 +17,7 @@ both over RapidAPI
 
 ## Tools used
 
-- python with BeautifoulSoup & Pandas
+- Python with BeautifoulSoup & Pandas
 - SQL 
 - Google Cloud
 
@@ -27,11 +25,15 @@ For our project, we were tasked with collecting data about several cities, inclu
 
 To gain a comprehensive understanding of data collection methods, we started by utilizing web scraping techniques to gather information about the cities from Wikipedia. Next, we integrated weather and flight APIs to complete the database
 
+I wrote [Medium Article](https://medium.com/@hanne-pruefer/thinking-twice-upfront-might-save-you-time-later-315b1c572672) about the project, have a look.  
 
 ## Folder structure
 
-/src  	- the python notebook to collect the data and send it to a SQL database
-	- the SQL script to transform the data to a final csv to show as results
-	- the python results notebook with plot
+[/src](https://github.com/HannePruefer/Collecting_Data_Web_Scraping_APIs_WBS/tree/main/src)  	
+- the python notebook to collect the data and send it to a SQL database
+- the SQL script to transform the data to a final csv to show as results
+- the python results notebook with plot
  
-/data 	- result csv from SQL 
+[/data](https://github.com/HannePruefer/Collecting_Data_Web_Scraping_APIs_WBS/tree/main/data)
+
+- result csv from SQL 
